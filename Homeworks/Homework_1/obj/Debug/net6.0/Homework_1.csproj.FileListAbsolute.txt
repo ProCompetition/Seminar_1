@@ -1,0 +1,15 @@
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.csproj.AssemblyReference.cache
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.AssemblyInfoInputs.cache
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.AssemblyInfo.cs
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.csproj.CoreCompileInputs.cache
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\bin\Debug\net6.0\Homework_1.exe
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\bin\Debug\net6.0\Homework_1.deps.json
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\bin\Debug\net6.0\Homework_1.runtimeconfig.json
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\bin\Debug\net6.0\Homework_1.dll
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\bin\Debug\net6.0\Homework_1.pdb
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.dll
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\refint\Homework_1.dll
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.pdb
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\Homework_1.genruntimeconfig.cache
+E:\Вадим Обучение\Семинар и домашнее задание\Seminars\Homeworks\Homework_1\obj\Debug\net6.0\ref\Homework_1.dll
