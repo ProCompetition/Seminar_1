@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Home\\.nuget\\packages\\": {}
+    "/Users/ct/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Вадим Обучение\\Семинар и домашнее задание\\Seminars\\Seminars\\Seminar_2\\Seminar_2.csproj",
+      "projectUniqueName": "/Users/ct/Downloads/Seminar_1-main/Seminars/Seminar_2/Seminar_2.csproj",
       "projectName": "Seminar_2",
-      "projectPath": "E:\\Вадим Обучение\\Семинар и домашнее задание\\Seminars\\Seminars\\Seminar_2\\Seminar_2.csproj",
-      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "E:\\Вадим Обучение\\Семинар и домашнее задание\\Seminars\\Seminars\\Seminar_2\\obj\\",
+      "projectPath": "/Users/ct/Downloads/Seminar_1-main/Seminars/Seminar_2/Seminar_2.csproj",
+      "packagesPath": "/Users/ct/.nuget/packages/",
+      "outputPath": "/Users/ct/Downloads/Seminar_1-main/Seminars/Seminar_2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/ct/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
       }
     }
   }
