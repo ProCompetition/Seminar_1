@@ -3,18 +3,23 @@
 
 // Console.WriteLine ("Задача на определение палиндрома, необходимо ввести число");
 // Console.WriteLine ("Введите пятизначное число");
-// int numA = Convert.ToInt32(Console.ReadLine());
+// int Num = Convert.ToInt32(Console.ReadLine());
 
+// int fives = Num % 10;
+// int first = Num / 10000;
+// int second = (Num/1000) % 10;
+// int four = ((Num%100) - fives)/10;
 
+// if (first == fives && second == four)
+// {
+//     Console.WriteLine("Yes, it's palindrome");
+// }
+// else
+// {
+//     Console.WriteLine("Nope, next time");
+// }
 
-// необходимо сравнить края числа
-
-
-
-// if (numN%2==0)
-// Console.WriteLine("Четное");
-// else 
-// Console.WriteLine("Нечетное");
+// Задача № 1 Выполнена 
 
 
 
@@ -51,4 +56,3 @@
 // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 
 
-// семинар 1 использовались квадраты
