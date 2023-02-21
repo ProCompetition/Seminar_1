@@ -3,11 +3,11 @@
 // Задача № 0
 // Сумма двух чисел и вывод двух чисел
 
-Console.WriteLine ("GB Задача №0");
-int numA = 5;
-int numB = Convert.ToInt32(Console.ReadLine());       // Команда запрашивает число у пользователя
-Console.WriteLine(numA + " " + numB);                 // Команда выводит рядом оба числа через пробел
-Console.WriteLine(numA + numB);                       // Команда выводит сумму двух чисел
+// Console.WriteLine ("GB Задача №0");
+// int numA = 5;
+// int numB = Convert.ToInt32(Console.ReadLine());       // Команда запрашивает число у пользователя
+// Console.WriteLine(numA + " " + numB);                 // Команда выводит рядом оба числа через пробел
+// Console.WriteLine(numA + numB);                       // Команда выводит сумму двух чисел
 
 
 
