@@ -5,12 +5,22 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
+// Console.WriteLine("Задача, необходимо ввести два числа (A и B), программа должна возвести число А в степень В");
+// Console.WriteLine("Input number A");                   // Запрашиваем у пользователя число
+// Double numA = Convert.ToInt32(Console.ReadLine());       // Записываем пользовательское число 
+// Console.WriteLine("Input number B");
+// Double numB = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine($"{numA}^{numB} = {(long)Math.Pow(numA, numB)}");
+
+
 
 // Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 
 // 452 -> 11
 // 82 -> 10
 // 9012 -> 12
+
 
 
 // Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
