@@ -57,19 +57,15 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine ("Задача, необходимо написать программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.");
-Console.WriteLine ("Введите число - N");
-int Num = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine ("Задача, необходимо написать программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.");
+// Console.WriteLine ("Введите число - N");
+// int Num = Convert.ToInt32(Console.ReadLine());
 
 
 
 
-//Задача 23: Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
-// 3 -> 1, 8, 27
-// 5 -> 1, 8, 27, 64, 125
-
-Console.WriteLine("\n Задача 23");
-Console.Write("Введите число: ");
+Console.WriteLine("Задача для вывода кубов от 1 до числа N");
+Console.Write("Введите число N: ");
 int cube = Convert.ToInt32(Console.ReadLine());
 
 void Cube(int[] cube){
