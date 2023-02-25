@@ -74,22 +74,22 @@
 
 
 
-Console.WriteLine("Input number");
-int x = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input number");
+// int x = Convert.ToInt32(Console.ReadLine());
 
-int NumberOfDigit (int x);
-{
-    int count = 0;
-    while (x>0)
-    {
-        x = x / 10;
-        count = count++;
-    }
-    return count;
-}
+// int NumberOfDigit (int x);
+// {
+//     int count = 0;
+//     while (x>0)
+//     {
+//         x = x / 10;
+//         count = count++;
+//     }
+//     return count;
+// }
 
 
-Console.WriteLine($"{NumberOfDigit(x)}");
+// Console.WriteLine($"{NumberOfDigit(x)}");
 
 
 
